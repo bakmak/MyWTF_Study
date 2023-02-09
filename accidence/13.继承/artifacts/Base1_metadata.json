@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"13.继承/ModifierInheritance.sol": "Base1"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"13.继承/ModifierInheritance.sol": {
+			"keccak256": "0x533a81928b31aef6e448bf780a39f41e55570a036587fdfa805b26d189e9deed",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://062d5bf21f54eed892cb4f28c3971f3121fff8ce94b0017699d1cbb8b8b1cce9",
+				"dweb:/ipfs/QmNs892jjafE78oZGrV9PB7PLDDgA8SY4fpyiDazi6bhXe"
+			]
+		}
+	},
+	"version": 1
+}

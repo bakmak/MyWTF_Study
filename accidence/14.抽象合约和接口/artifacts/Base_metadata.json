@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getAlias",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"14.抽象合约和接口/AbstractDemo.sol": "Base"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"14.抽象合约和接口/AbstractDemo.sol": {
+			"keccak256": "0xdcc8a359177bcdfe475f64eccd79894bd0cad30190fd2fdd868406d15b89eeff",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e7cc946923e6ad080e2ca62cddc6c2d7c9c736c6125849bd74685a27eddbed1a",
+				"dweb:/ipfs/QmZU97KQZX5K4baeufd6SBtCZADT4YssLogYqV3c4qdfh9"
+			]
+		}
+	},
+	"version": 1
+}
