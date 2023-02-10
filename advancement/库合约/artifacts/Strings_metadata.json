@@ -1,0 +1,118 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "length",
+						"type": "uint256"
+					}
+				],
+				"name": "toHexString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					}
+				],
+				"name": "toHexString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					}
+				],
+				"name": "toString",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {
+				"toHexString(uint256)": {
+					"details": "将`uint256`转换为其ASCII `string`的十六进制表示形式。"
+				},
+				"toHexString(uint256,uint256)": {
+					"details": "将`uint256`转换为其ASCII `string`的固定长度的十六进制表示形式。"
+				},
+				"toString(uint256)": {
+					"details": "将`uint256`转换为其ASCII `string`十进制表示形式。"
+				}
+			},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"库合约/StringLibrary.sol": "Strings"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"库合约/StringLibrary.sol": {
+			"keccak256": "0x4d1bb8fe8469c48f2a41278fa45d94ccc4f5f33d4bf30de9fb700bda18576fae",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://f479c0980c8d2d272aafa655d9b96daacefb021de24bc51e6d4fffb501e60191",
+				"dweb:/ipfs/Qmdf8woEMtk31BxsD6mXAqNMVsNZZUUg7yBdJNKfwxK5EJ"
+			]
+		}
+	},
+	"version": 1
+}

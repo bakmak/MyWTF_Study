@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "newContract",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"库合约/Create2Library.sol": "Create2Example"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"库合约/Create2Library.sol": {
+			"keccak256": "0x7351e90cb2fed75464fb488cf041dbced1a6d4f1733b44ffd15c5479d1ac1672",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://92153874ef17d931e0d68a22d4e0c1e6c5c504102416690608c60e39aa1db352",
+				"dweb:/ipfs/QmVdZAiPV2ef26dDBap94Hn1hksDYAU5vQ3P6BeNP9KJK1"
+			]
+		}
+	},
+	"version": 1
+}

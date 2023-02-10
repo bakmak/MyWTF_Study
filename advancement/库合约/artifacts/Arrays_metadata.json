@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "这是一组与数组类型相关的函数。",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"库合约/ArraysLibrary.sol": "Arrays"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"库合约/ArraysLibrary.sol": {
+			"keccak256": "0x7208876bc64ffda40e72963a2269cab016313eb1f4bf43ac01b71a8b33cf00a5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://26562943421478bd81abea734a16890d0a5483e6ed34dc630b18934fbd61f5b6",
+				"dweb:/ipfs/QmStzLFt4BBHvRd4JPzjxCk8Ayjva8HgWJJ3BZnwZCgzac"
+			]
+		},
+		"库合约/Math.sol": {
+			"keccak256": "0x24b35fb10a3bcca3a66ec01962f10a243c17e8f06595f9a540227a4b4289efa2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://5af75827de7176584006d279634b74f4fce614053197ce4b6cace5c0583c50dd",
+				"dweb:/ipfs/QmTT73G1gnHajNrsffQr8RqWaqWg7ryLf76n5EgXoiCSkF"
+			]
+		}
+	},
+	"version": 1
+}
