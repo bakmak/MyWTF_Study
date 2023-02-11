@@ -4,9 +4,9 @@ pragma solidity ^0.8.4;
 //  通过文件相对位置import
 // import './Yeye.sol';
 //  通过`全局符号`导入特定的合约
-import {Yeye} from './Yeye.sol';
-//  通过Yeye重命名为Wow，后续代码中使用 Wow 来引用它
-// import {Yeye as Wow}from"./Yeye.sol";
+import {Yeye} from "./Yeye.sol";
+//  通过Yeye重命名为Wowo，后续代码中使用 Wowo 来引用它
+// import {Yeye as Wowo}from"./Yeye.sol";
 //  使用 as 关键字将从其他合约导入的接口、类型或变量重命名为我们自己的名字。这样可以避免名称冲突或使代码更易于阅读。
 // import * as Wowo from "./Yeye.sol";
 //  通过网址引用

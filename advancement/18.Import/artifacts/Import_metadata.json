@@ -45,7 +45,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"Import/Import.sol": "Import"
+			"18.Import/Import.sol": "Import"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -59,6 +59,22 @@
 		"remappings": []
 	},
 	"sources": {
+		"18.Import/Import.sol": {
+			"keccak256": "0x04416101ef60196e2f9f0ee39bb1a445c83fd6d225bbbcc9ecefccc0589cbcfe",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c0d0585833dbf4f77df1376d8d76afc9f0b7691a91825e932b17282cfcb6043f",
+				"dweb:/ipfs/QmZkJiYKjkmpgZMVaM5ZCmSXgvVjgfX4JKtHepHYqnTg16"
+			]
+		},
+		"18.Import/Yeye.sol": {
+			"keccak256": "0x0e9a1db5573307d0218d8a78585bc028a73be0ef5b179fa6711a2297dba65fb3",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://645a1215e6e9421cd79e5622fe06f812b2f2e22f920a4b7bcfc684e93fd28cf4",
+				"dweb:/ipfs/QmSv8J5xP5BhFE6m56gp7qD6VAAY8KjGnZv6uUczzNjx2E"
+			]
+		},
 		"@openzeppelin/contracts/access/Ownable.sol": {
 			"keccak256": "0xa94b34880e3c1b0b931662cb1c09e5dfa6662f31cba80e07c5ee71cd135c9673",
 			"license": "MIT",
@@ -81,22 +97,6 @@
 			"urls": [
 				"bzz-raw://6df0ddf21ce9f58271bdfaa85cde98b200ef242a05a3f85c2bc10a8294800a92",
 				"dweb:/ipfs/QmRK2Y5Yc6BK7tGKkgsgn3aJEQGi5aakeSPZvS65PV8Xp3"
-			]
-		},
-		"Import/Import.sol": {
-			"keccak256": "0xf64139f0217b338a43a927412c87c8b36edb32d2a3a49d1225442cd367d3835c",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://ba321cf90b4940f25632c6d523b045436294fc36c35a471f9a7d30b89a93acab",
-				"dweb:/ipfs/QmZNcEnp9jFubszHvPth4UhHpo2AoFH4XdmbxJMAXaVE2k"
-			]
-		},
-		"Import/Yeye.sol": {
-			"keccak256": "0x0e9a1db5573307d0218d8a78585bc028a73be0ef5b179fa6711a2297dba65fb3",
-			"license": "MIT",
-			"urls": [
-				"bzz-raw://645a1215e6e9421cd79e5622fe06f812b2f2e22f920a4b7bcfc684e93fd28cf4",
-				"dweb:/ipfs/QmSv8J5xP5BhFE6m56gp7qD6VAAY8KjGnZv6uUczzNjx2E"
 			]
 		}
 	},
